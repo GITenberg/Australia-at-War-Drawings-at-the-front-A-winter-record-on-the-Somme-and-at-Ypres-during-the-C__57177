@@ -1,0 +1,36 @@
+_repo: Australia-at-War-Drawings-at-the-front-A-winter-record-on-the-Somme-and-at-Ypres-during-the-C__57177
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Chesterton, Keith
+    gutenberg_agent_id: '49229'
+    url: http://www.gutenberg.org/2009/agents/49229
+  - agent_name: Gilbert, W. S. (William Schwenck)
+    alias: Gilbert, William Schwenck, Sir
+    birthdate: 1836
+    deathdate: 1911
+    gutenberg_agent_id: '395'
+    url: http://www.gutenberg.org/2009/agents/395
+  illustrator: &id001
+    agent_name: Dyson, Will
+    gutenberg_agent_id: '49228'
+    url: http://www.gutenberg.org/2009/agents/49228
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2018-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Australia at War
+
+  Drawings at the front: A winter record on the Somme and
+
+  at Ypres, during the Campaings of 1916 and 1917'
+url: http://www.gutenberg.org/ebooks/57177
