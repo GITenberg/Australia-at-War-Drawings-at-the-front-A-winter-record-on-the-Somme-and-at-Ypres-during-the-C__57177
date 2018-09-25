@@ -1,5 +1,5 @@
 _repo: Australia-at-War-Drawings-at-the-front-A-winter-record-on-the-Somme-and-at-Ypres-during-the-C__57177
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Chesterton, Keith
@@ -15,9 +15,14 @@ contributor:
     agent_name: Dyson, Will
     gutenberg_agent_id: '49228'
     url: http://www.gutenberg.org/2009/agents/49228
+covers:
+- cover_type: archival
+  image_path: 57177-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57177#Australia-at-War-Drawings-at-the-front-A-winter-record-on-the-Somme-and-at-Ypres-during-the-C_
 gutenberg_issued: '2018-05-18'
 gutenberg_type: Text
 identifiers:
